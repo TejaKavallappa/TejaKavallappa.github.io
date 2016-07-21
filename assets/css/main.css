@@ -2195,6 +2195,18 @@
 		margin: 0 0 2.25em 0;
 	}
 
+	.contact-horizontal{
+		display: flex;
+		justify-content: space-between;
+	}
+	.contact{
+		margin: 0.5265em 0 0 0;
+	}
+
+	.contact ul{
+		list-style: none;
+	}
+
 /* Table */
 
 	.table-wrapper {
@@ -2572,8 +2584,8 @@
 
 /* One */
 
-	#one:before {
-		/*background-image: url("../../images/DSC_7130.jpg");*/
+/*background-image: url("../../images/DSC_7130.jpg");*/
+	/*#one:before {
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: cover;
@@ -2581,7 +2593,7 @@
 		display: block;
 		height: 15em;
 		width: 100%;
-	}
+	}*/
 
 /* Footer */
 
